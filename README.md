@@ -10,43 +10,43 @@ This collection demonstrates proficiency in implementing and analyzing various d
 
 ## Projects in this Repository
 
-### 1. [Stack Implementation & Polish Notation Calculator](./Stacks/README.md)
+### 1. [Stack Implementation & Polish Notation Calculator](./Stacks)
 - Custom Stack ADT implementation
 - String array reversal using stacks
 - Polish notation calculator for mathematical expressions
 - Time complexity analysis and testing
 
-### 2. [Recursive Algorithms & Visualization](./Recursion/README.md)
+### 2. [Recursive Algorithms & Visualization](./Recursion)
 - Recursive implementations of mathematical operations
 - Fibonacci sequence calculation
 - Fractal visualization using recursive drawing techniques
 - Performance analysis of recursive algorithms
 
-### 3. [Linked List Traversal & Stack Implementation](./LinkedList/README.md)
+### 3. [Linked List Traversal & Stack Implementation](./LinkedList)
 - Linked list iteration methods
 - Stack implementation using linked nodes
 - Test-driven development approach
 - Time complexity analysis
 
-### 4. [Doubly Linked List & Stack Reversal Algorithms](./Queue_&_Doubly_Linked_List/README.md)
+### 4. [Doubly Linked List & Stack Reversal Algorithms](./Queue_&_Doubly_Linked_List)
 - Doubly linked list implementation
 - Queue implementation using linked structures
 - Stack reversal algorithms
 - In-place reversal techniques
 
-### 5. [Linear & Binary Search Algorithm Implementation](./Search_Algorithms/README.md)
+### 5. [Linear & Binary Search Algorithm Implementation](./Search_Algorithms)
 - Linear search for arrays and linked lists
 - Binary search for sorted arrays
 - Comparative performance analysis
 - Array-based vs. linked structures
 
-### 6. [Binary Search Tree & Priority Queue Implementation](./Binary_Search_Tree_&_Priority_Queue/README.md)
+### 6. [Binary Search Tree & Priority Queue Implementation](./Binary_Search_Tree_&_Priority_Queue)
 - Binary search tree operations
 - In-order traversal algorithms
 - Priority queue implementation
 - Heap-based sorting techniques
 
-### 7. [Sorting Algorithms & Advanced Data Structures](./Sorting_Algorithms_&_Trie/README.md)
+### 7. [Sorting Algorithms & Advanced Data Structures](./Sorting_Algorithms_&_Trie)
 - Multiple sorting algorithm implementations
 - Trie data structure for string operations
 - Advanced linked list operations
