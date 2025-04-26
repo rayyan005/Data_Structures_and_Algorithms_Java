@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository serves as a comprehensive portfolio of my work in Data Structures and Algorithms (DSA) completed during my university coursework. Each subdirectory contains implementations of fundamental DSA concepts, thoroughly tested and documented.
+This repository is a collection of projects developed as part of my academic coursework in Data Structures and Algorithms, designed to apply theoretical concepts to practical Java programming challenges. Each subdirectory contains implementations of fundamental DSA concepts, thoroughly tested and documented.
 
 ## Project Overview
 
